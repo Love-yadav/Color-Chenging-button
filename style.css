@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color:white;
+}
+.container button{
+    margin:50vh 94vh;
+    cursor:pointer;
+    padding:2px 8px
+
+}
